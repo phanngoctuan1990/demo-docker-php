@@ -1,5 +1,6 @@
 FROM ubuntu
 
+
 MAINTAINER TuanPhan <phanngoctuan1990@gmail.com>
 
 # run update and install nginx, php-fpm and other useful libraries
